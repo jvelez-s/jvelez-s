@@ -28,6 +28,10 @@
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png" />
 
+## Spotify playing
+
+[![Spotify](https://jvelez-s.vercel.app/api/spotify)](https://open.spotify.com/user/jvsmagic)
+
 <!-- Abbreviationss -->
 [twitter]: https://twitter.com/GenomicMagician
 [instagram]: https://instagram.com/genomicmagician

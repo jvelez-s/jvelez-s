@@ -30,7 +30,7 @@
 
 ## Spotify playing
 
-[![Spotify](https://jvelez-s.vercel.app/api/spotify)](https://open.spotify.com/user/jvsmagic)
+[![Spotify](https://novatorem.jvelez-s.vercel.app//api/spotify)](https://open.spotify.com/user/jvsmagic)
 
 <!-- Abbreviationss -->
 [twitter]: https://twitter.com/GenomicMagician

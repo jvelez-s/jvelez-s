@@ -1,4 +1,4 @@
-### Hi there, I'm Jesus 👋
+### Hi there, I'm Jesús 👋
 
 ## I'm a Undergraduate student, Developer attempt, and Magician! 🎩
 
@@ -30,7 +30,7 @@
 
 <br>
  
- ### Spotify Playing 🎧
+ ## Spotify Playing 🎧
  
  [![Spotify](https://novatorem.jvelez-s.vercel.app//api/spotify)](https://open.spotify.com/user/jvsmagic)
  

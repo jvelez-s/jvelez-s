@@ -1,6 +1,6 @@
 ### Hi there, I'm Jesus 👋
 
-## I'm a Undergraduate student, Developer attempt, and Magician! 🎩
+## I'm a Undergraduate student, Developer attempt, and Magician! 🎩
 
 - 🦉 I'm always trying to learn something new 😂
 - 🗓 I'm always thinking about how to abstract the problems 👁

@@ -30,11 +30,10 @@
 
 <br>
   
-## Spotify playing
-  
-[![Spotify](https://jvelez-s.vercel.app/api/spotify)](https://open.spotify.com/user/jvsmagic)
-  
+### Spotify Playing 🎧
 
+[<img src="https://novatorem.jvelez-s.vercel.app/api/spotify-playing" alt="jvelez-s Spotify Playing" width="350" />](https://open.spotify.com/user/jvsmagic)
+  
 <!-- Abbreviationss -->
 [twitter]: https://twitter.com/GenomicMagician
 [instagram]: https://instagram.com/genomicmagician

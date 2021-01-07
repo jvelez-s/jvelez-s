@@ -36,5 +36,5 @@
  
  
 <!-- Abbreviationss -->
-[twitter]: https://twitter.com/jvelezsan
+[twitter]: https://twitter.com/jvelezmagic
 [instagram]: https://instagram.com/genomicmagician
